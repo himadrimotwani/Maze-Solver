@@ -74,9 +74,9 @@ Distributed under the MIT License. See LICENSE.txt for more information.
 <!-- CONTACT -->
 ## Contact
 
-YeyoM - [@YeyoMoreno24](https://twitter.com/YeyoMoreno24) - yeyomoreno2003@hotmail.com
+himadrimotwani@gmail.com
 
-Maze Solver - [https://github.com/YeyoM/mazeSolver](https://github.com/YeyoM/mazeSolver)
+Maze Solver - [https://github.com/himadrimotwani/Maze-Solver.git]
 
 <!-- MARKDOWN LINKS & IMAGES -->
 [product-screenshot]: public/screenshot.png
