@@ -13,7 +13,7 @@
     <a href="https://github.com/himadrimotwani/Maze-Solver.git"><strong>Explore the code »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/YeyoM/mazeSolver/issues">Report Bug</a>
+    <a href="https://github.com/himadrimotwani/Maze-Solver/issues">Report Bug</a>
   </p>
 </div>
 
@@ -65,11 +65,6 @@ To get a local copy up and running follow these simple example steps.
     git clone https://github.com/YeyoM/mazeSolver.git
    ```
 - The entry point of the code is main.py
-
-<!-- LICENSE -->
-## License
-
-Distributed under the MIT License. See LICENSE.txt for more information.
 
 <!-- CONTACT -->
 ## Contact
