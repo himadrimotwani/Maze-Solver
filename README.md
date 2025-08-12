@@ -1,7 +1,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/YeyoM/mazeSolver">
+  <a href="https://github.com/himadrimotwani/Maze-Solver.git">
     <img src="public/icon.svg" alt="Logo" width="80" height="80">
   </a>
 
@@ -10,7 +10,7 @@
   <p align="center">
     Generate and solve a maze with Python.
     <br />
-    <a href="https://github.com/YeyoM/mazeSolver"><strong>Explore the code »</strong></a>
+    <a href="https://github.com/himadrimotwani/Maze-Solver.git"><strong>Explore the code »</strong></a>
     <br />
     <br />
     <a href="https://github.com/YeyoM/mazeSolver/issues">Report Bug</a>
