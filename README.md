@@ -69,8 +69,6 @@ To get a local copy up and running follow these simple example steps.
 <!-- CONTACT -->
 ## Contact
 
-himadrimotwani@gmail.com
-
 Maze Solver - [https://github.com/himadrimotwani/Maze-Solver.git]
 
 <!-- MARKDOWN LINKS & IMAGES -->
