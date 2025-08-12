@@ -20,7 +20,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://github.com/YeyoM/mazeSolver)
+[![Product Name Screen Shot][product-screenshot]](https://github.com/himadrimotwani/Maze-Solver.git)
 
 ### What does this project do?
 
